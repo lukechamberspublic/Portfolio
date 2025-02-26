@@ -6,9 +6,11 @@ It also contains predictions for each teams likelihhod to finish 1st, Top 4, Top
 
 ## Setup
 
-If you do not already have all dependant packages installed you can install the them by running:
+If you do not already have all dependent packages installed you can install the them by running:
 
 pip install -r requirements.txt
+
+jupyter notebook
 
 From there you can navigate to the project folder and open LT_model.ipynb.
 

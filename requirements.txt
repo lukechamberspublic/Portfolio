@@ -1,8 +1,0 @@
-pandas
-understatapi
-numpy
-tabulate
-itertools
-scipy
-sklearn
-IPython

@@ -2,7 +2,7 @@
 
 This project creates predictions for every match for the rest of the season for any of the top 5 European Leagues, based on optimised goal, xG and betting line ratings. 
 These predictions are then used to create a league table with predicted number of points, goals scored and goals conceded at the end of the season.
-It also contains predictions for each teams likelihhod to finish 1st, Top 4, Top 6 and Bottom 3, derived from running Monte Carlo simulations on the rest of the seasons fixtures.
+It also contains predictions for each teams likelihood to finish 1st, Top 4, Top 6 and Bottom 3, derived from running Monte Carlo simulations on the rest of the seasons fixtures.
 
 ## Setup
 

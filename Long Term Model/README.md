@@ -6,7 +6,6 @@ It also contains predictions for each teams likelihhod to finish 1st, Top 4, Top
 
 ## Dependencies
 
-- This model requires Jupyter Notebook to run. Installation instructions can be found [here](https://jupyter.org/install)
 - See setup section below to install the required pip packages for this project
 
 ## Setup

@@ -1,16 +1,28 @@
 # Long Term Model
 
-This project creates predictions for every match for the rest of the season for any of the top 5 European Leagues, based on optimised goal, xG and betting line ratings. 
+This project creates predictions for every match for the rest of the season for any of the top 5 European Leagues, based on optimised goal, xG and betting line ratings.
 These predictions are then used to create a league table with predicted number of points, goals scored and goals conceded at the end of the season.
 It also contains predictions for each teams likelihhod to finish 1st, Top 4, Top 6 and Bottom 3, derived from running Monte Carlo simulations on the rest of the seasons fixtures.
 
+## Dependencies
+
+- This model requires Jupyter Notebook to run. Installation instructions can be found [here](https://jupyter.org/install)
+- See setup section below to install the required pip packages for this project
+
 ## Setup
 
-If you do not already have all dependent packages installed you can install the them by running:
+```
+# Set up venv
+cd Portfolio/Long Term Model
+python 3 -m venv venv
+source venv/bin/activate
 
+# Install Dependencies
 pip install -r requirements.txt
 
+# launch jupyter notebook
 jupyter notebook
+```
 
 From there you can navigate to the project folder and open LT_model.ipynb.
 
